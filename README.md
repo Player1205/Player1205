@@ -19,18 +19,6 @@
 | **Backend & Tooling** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Next-js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 | **Version Control** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
----
-
-### 📊 GitHub Analytics
-
-Here is a live look at my repository metrics and code distribution across my projects:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Player1205&show_icons=true&theme=dark&hide_border=true" alt="Vansh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Player1205&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
