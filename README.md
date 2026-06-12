@@ -1,6 +1,17 @@
 # Vansh Rana
 **Software Engineer | Building Resilient Systems at the Intersection of AI, Web3, and Full-Stack Architecture**
 
+### ⚡ What I Accomplished
+![Fastify](https://img.shields.io/badge/Fastify-Core_Contributor-9cf?style=for-the-badge&logo=fastify&logoColor=white&color=000000)
+
+* I authored and open-sourced `fastify-param-schema-validation`, which was officially merged into the Fastify framework ecosystem.
+
+### 🛠️ My Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Connect with Me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 I am a software engineer driven by a singular ambition: to engineer scalable, high-performance systems that solve complex problems with mathematical precision. Currently in my second year of Computer Science and Engineering at Chandigarh University, I am focused on bridging the gap between traditional web stacks, decentralized trust, and algorithmic optimization.
 
 My development philosophy centers on clean architecture, strict data integrity, and building applications that feel seamless to the user but are mathematically rigorous under the hood. Whether I am competing in national hackathons or building my own platforms, I prioritize production-ready code over quick prototypes.
