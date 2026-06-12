@@ -1,16 +1,39 @@
 # Vansh Rana
 **Software Engineer | Building Resilient Systems at the Intersection of AI, Web3, and Full-Stack Architecture**
 
-### ⚡ What I Accomplished
-![Fastify](https://img.shields.io/badge/Fastify-Core_Contributor-9cf?style=for-the-badge&logo=fastify&logoColor=white&color=000000)
+### 🏆 Key Accomplishments
+![Fastify](https://img.shields.io/badge/Fastify-Core_Contributor-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Hackathon](https://img.shields.io/badge/National_Hackathon-Winner-gold?style=for-the-badge&logo=codeforces&logoColor=white)
 
-* I authored and open-sourced `fastify-param-schema-validation`, which was officially merged into the Fastify framework ecosystem.
+* 🚀 **Open Source Contributor:** Authored and published `fastify-param-schema-validation`, officially merged into the core **Fastify** ecosystem.
+* 🥇 **National Hackathon Winner:** Engineered award-winning solutions under strict competitive constraints.
 
-### 🛠️ My Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 🛠️ Tech Stack & Core Skills
+
+| Category | Badges |
+| :--- | :--- |
+| **Core Computer Science** | ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-🧠-blue?style=for-the-badge&color=D9381E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Full Stack (MERN)** | ![MERN Stack](https://img.shields.io/badge/MERN_Stack-Purple?style=for-the-badge&color=800080) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| **Backend & Tooling** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Next-js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Version Control** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+
+Here is a live look at my repository metrics and code distribution across my projects:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Player1205&show_icons=true&theme=dark&hide_border=true" alt="Vansh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Player1205&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
 
 ### 🌐 Connect with Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 I am a software engineer driven by a singular ambition: to engineer scalable, high-performance systems that solve complex problems with mathematical precision. Currently in my second year of Computer Science and Engineering at Chandigarh University, I am focused on bridging the gap between traditional web stacks, decentralized trust, and algorithmic optimization.
 
